@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  *
- * Return: Always 0
+ * Return: Always (0)
  */
 int main(void)
 {
@@ -19,6 +19,5 @@ int main(void)
 		printf("%d is zero\n", n);
 	else
 		printf("%d is negative\n", n);
-	
 	return (0);
 }
